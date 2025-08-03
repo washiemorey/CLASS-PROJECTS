@@ -12,5 +12,5 @@ From the model 93.6% of Total Premium charged is contributed by : Gender,Violati
 After building the model I created an input system that could be used by anyone to estimate Premium to Charge by inputing : Gender,Driving Experience and Violations Commited.
 [Here is the input system](https://washiemorey.shinyapps.io/insurance/)
 
-The R scripts are uploaded above as Multiple LR and Insurance folder for the Application used for input
+The R scripts are uploaded above as Multiple LR and app (For application used for input)
 
